@@ -1,0 +1,4 @@
+﻿  winapp.cpp
+E:\projects\WinAPI\winapp\winapp\winapp.cpp(19): warning C4715: WinMain: значение возвращается не при всех путях выполнения
+E:\projects\WinAPI\winapp\winapp\winapp.cpp(45): warning C4715: SoftwareMainProcedure: значение возвращается не при всех путях выполнения
+  winapp.vcxproj -> E:\projects\WinAPI\winapp\x64\Debug\winapp.exe

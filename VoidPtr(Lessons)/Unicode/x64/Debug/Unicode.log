@@ -1,0 +1,6 @@
+﻿  Unicode.cpp
+E:\projects\WinAPI\VoidPtr(Lessons)\Unicode\Unicode.cpp(8,12): error C2731: WinMain: функция не может быть перегружена
+E:\projects\WinAPI\VoidPtr(Lessons)\Unicode\Unicode.cpp(8,12): message : см. объявление "WinMain"
+E:\projects\WinAPI\VoidPtr(Lessons)\Unicode\Unicode.cpp(15,18): error C2440: инициализация: невозможно преобразовать "const char [7]" в "LPSTR"
+E:\projects\WinAPI\VoidPtr(Lessons)\Unicode\Unicode.cpp(15,18): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+E:\projects\WinAPI\VoidPtr(Lessons)\Unicode\Unicode.cpp(58,20): warning C4267: инициализация: преобразование из "size_t" в "DWORD"; возможна потеря данных
